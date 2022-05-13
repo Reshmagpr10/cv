@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -55,8 +55,7 @@
             <td>Turkish</td>
             <td>⭐⭐⭐</td>
         </tr>
-    </table>
-    </td>
+        </table>
     
 
 </body>
